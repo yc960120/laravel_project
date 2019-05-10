@@ -1,0 +1,14 @@
+{
+    "name": "danger.yang/laravel_project",
+    "description": "learning",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "danger.yang",
+            "email": "yc960120@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
